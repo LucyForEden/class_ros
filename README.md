@@ -19,7 +19,7 @@ This project facilitates the migration of an existing system to a new platform, 
 
 ## Requirements
 
-- Python 3.x
+- C++
 - Required libraries (see `requirements.txt`)
 - Access to both source and target environments
 
